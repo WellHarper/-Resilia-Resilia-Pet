@@ -127,3 +127,11 @@ h3 {
 .adoptList p {
   text-align: center;
 }
+
+footer {
+  background-color: black;
+  text-align: center;
+  color: #ffd000;
+  padding: 30px;
+  font-family: Archivo;
+}
