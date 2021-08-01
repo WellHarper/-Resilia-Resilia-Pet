@@ -1,3 +1,7 @@
+a {
+  text-decoration: none;
+}
+
 .navList {
   display: flex;
   flex-direction: row;
@@ -134,4 +138,15 @@ footer {
   color: #ffd000;
   padding: 30px;
   font-family: Archivo;
+}
+
+.socialMediaLine {
+  display: flex;
+  justify-content: center;
+}
+
+.socialMediaLine i {
+  font-size: 24px;
+  color: #ffd000;
+  margin: 10px 30px;
 }
