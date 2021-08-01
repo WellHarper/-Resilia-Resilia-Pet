@@ -42,12 +42,10 @@ a {
 .otherItemsZone li {
   margin-top: 7px;
   font-size: 15px;
-  transition: 1s font-size ease-in;
 }
 
 .otherItemsZone li:hover {
   color: #ffd000;
-  font-size: 20px;
 }
 
 .banner {
